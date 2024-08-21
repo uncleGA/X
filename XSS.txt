@@ -1,0 +1,22 @@
+<head>
+</head>
+<body style="background-image: url('https://cdn.discordapp.com/attachments/1262523527937003717/1275849613454217308/Screenshot\_2024-08-21\_183720.png?ex=66c7630b&is=66c6118b&hm=ecfc9cf2ba52c256c291821eeb9a8386d100d61d25a8e9153e515463de3b56a1&'); background-size: cover;">
+<!-- Add elements and content as needed -->
+</body>
+</html>
+<div class="content"><audio autoplay loop>
+  <source src="https://cdn.discordapp.com/attachments/1262523527937003717/1275853751764385854/HD.mp3?ex=66c766e6&is=66c61566&hm=06e3df980ba50bd7a08a31defab8cf26716c6ff108e1197c2db8a8ad2148feb8&" type="audio/mpeg">
+</audio>
+    <center>
+       
+        <h1 class="ip-display"><font color="#000000" size="6">(الله اكبر)</font></h1>
+        <h1 class="ip-display"><font color="#000000" size="6">(Taliban is here!!)</font></h1>
+
+<h1 class="ip-display"><font color="#000000" size="6">(تم عرض هذا الصوره للجميع من قبل منظمة طالبان الشريفة!!)</font></h1>
+        <font class="ip-display" color="#040404" size="4px"><span style="text-shadow: 0px 0px 2px;"><font color="#040404" size="9px"></font><font color="#ff0000" size="6">! لا اله الا الله !</font></span></font>
+        <marquee><font color="#040404" size="4px"><span style="text-shadow: 0px 0px 2px;"><font color="#040404" size="9px"></font><font color="#ff0000" size="6">اشهد انه لا اله الا الله واشهد انه محمد عبده ورسوله</font></span></font></marquee>
+        <p class="ip-display"><b><font color="#c9cdd2" size="6px"></font></b></p>
+        <div class="ip-display" id="clock"></div>
+        <div id="ip-address" style="color:#ff0000; margin-top: 20px;"></div>
+    </center>
+</div>
